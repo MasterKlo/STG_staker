@@ -28,7 +28,7 @@ The script reads private keys from the "private_keys.txt" file, each representin
 ## Prerequisites
 
 - Python 3.x
-- The `web3` library for Ethereum interactions (`pip install web3`)
+- pip install -r requirements.txt
 
 ## How to Use
 
